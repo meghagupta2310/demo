@@ -10,4 +10,4 @@ public class two
 	           System.out.println();
 	        }
 	  }
-}
+}  
